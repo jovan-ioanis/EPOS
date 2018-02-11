@@ -1,10 +1,12 @@
 # EPOS, the Energy Plan Overlay Self-stabilization
 
-This project is the source code that prototypes EPOS as illustrated in the following published [paper](http://evangelospournaras.com/wordpress/wp-content/uploads/2011/07/Local-Agent-based-Self-stabilisation-in-Global-Resource-Utilisation.pdf):
+This project is the source code that prototypes EPOS as illustrated in the following published papers:
 
->E. Pournaras, M. Warnier and F.M.T. Brazier, _Local Agent-based Self-stabilisation in Global Resource Utilisation_, International Journal of Autonomic Computing, Vol. 1, Nr. 4,  pp. 350-373, 2010 © Interscience Publishers
+>P. Pilgerstorfer and E. Pournaras, _[Self-adaptive Learning in Decentralized Combinatorial Optimization-A Design Paradigm for Sharing Economies](http://evangelospournaras.com/wordpress/wp-content/uploads/2017/03/Self-adaptive-Learning-in-Decentralized-Combinatorial-Optimization-–-A-Design-Paradigm-for-Sharing-Economies.pdf)_, in the Proceedings of the 12th International Symposium on Software Engineering for Adaptive and Self-managing Systems-SEAMS-2017, Buenos Aires, May 2017
 
-You can also read about DIAS in Chapter 6 of the following [PhD thesis](http://evangelospournaras.com/wordpress/wp-content/uploads/2013/04/Multi-level-Reconfigurable-Self-organization-in-Overlay-Services1.pdf).
+>E. Pournaras, Mark Yao, Dirk Helbing, _[Self-regulating Supply-Demand Systems](http://evangelospournaras.com/wordpress/wp-content/uploads/2018/01/Self-regulating-Supply-Demand-Systems.pdf)_, Future Generation Computer Systems, Vol. 76, pp. 73-91, 2017
+
+You can also read about EPOS in Chapter 6 of the following [PhD thesis](http://evangelospournaras.com/wordpress/wp-content/uploads/2013/04/Multi-level-Reconfigurable-Self-organization-in-Overlay-Services1.pdf).
 
 >E. Pournaras, _Multi-level Reconfigurable Self-organization in Overlay Services_, PhD Thesis, Delft University of Technology, March 2013
 
